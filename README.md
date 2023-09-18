@@ -88,10 +88,10 @@ ________
 7. НАПРАВЛЕНИЕ ЖАЛОБ И ЗАПРОСОВ ПРАВООБЛАДАТЕЛЮ
 Требование о прекращении обработки персональных данных
 Каждый Пользователь имеет право выразить свое возражение Правообладателю против обработки и/или хранения его Персональных данных. Такое возражение может быть выражено следующим образом:
-Запрос должен быть отправлен на почту niima@mri-progress.ru
+Запрос должен быть отправлен на почту info@i-progress.tech
 Запрос на получение информации о персональных данных
 Если у Пользователя возникают вопросы, связанные с порядком применения или использования настоящий Политики, порядком и/или способом обработки Персональных данных, Пользователь может задать такой вопрос следующим образом:
-Запрос должен быть отправлен на почту niima@mri-progress.ru
+Запрос должен быть отправлен на почту info@i-progress.tech
 Изменение (обновление, дополнение, корректировка) или удалении персональных данных
 Пользователь имеет право в любой момент самостоятельно изменить или удалить свои Персональные данные, за исключением случаев, когда такое изменение или удаление может привести (1) к нарушению правил настоящей Политики; или (2) к нарушению Закона; (3) характер таких Персональных данных является доказательством в каком-либо судебном процессе, возникшем между Правообладателем и Пользователем.
 Пользователь имеет право изменить или удалить свои Персональные данные в следующий способ:
@@ -220,7 +220,7 @@ The Copyright Holder does not place advertising in the Mobile Application.
 7. DIRECTION OF COMPLAINTS AND QUESTIONS TO THE COPYRIGHT HOLDER
 Request to stop processing personal data
 Each User has the right to express his objection to the Copyright Holder against the processing and/or storage of his Personal Data. Such an objection can be expressed as follows:
-The request should be sent to niima@mri-progress.ru
+The request should be sent to info@i-progress.tech
 Request for information about personal data
 If the User has questions related to the procedure for applying or using this Policy, the procedure and/or method of processing Personal Data, the User can ask such a question as follows:
 The request should be sent to info@i-progress.tech
