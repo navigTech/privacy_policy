@@ -11,8 +11,8 @@
 Акционерное общество «Научно-исследовательский институт микроэлектронной аппаратуры «Прогресс»	 
 125183, г. Москва,	 
 проезд Черепановых, д. 54	 
-телефон: (499)153-03-11	 
-email: niima@mri-progress.ru
+телефон: +7 499 2817057	 
+email: info@i-progress.tech
 "Файлы куки" означает небольшие файлы, отправляемые каким-либо мобильным приложениям или сайтом, и размещаемые на смартфонах, планшетах, часах и других мобильных устройствах Пользователя, для улучшения работы таких приложений или сайтов, а также качества размещенного в них контента.
 
 
@@ -80,7 +80,9 @@ ________
 
 6. РАЗМЕЩЕНИЕ РЕКЛАМЫ
 Реклама в мобильном приложении
-Правообладатель не размещает рекламу в Мобильном приложении.
+Правообладатель вместе с контентом размещает в Мобильном приложении различные рекламные и маркетинговые материалы с учетом выявленных предпочтений Пользователя к тому или иному контенту. Размещение рекламы в Мобильном приложении предполагает установку на устройстве Правообладателя определенных Файлов куки.
+Пользователь имеет право в любой момент отказаться от такой рекламы посредством выполнения следующих действий:
+Запрос должен быть отправлен на почту info@i-progress.tech
 
 
 7. НАПРАВЛЕНИЕ ЖАЛОБ И ЗАПРОСОВ ПРАВООБЛАДАТЕЛЮ
@@ -124,7 +126,6 @@ ________
 Риск разглашения
 Вне зависимости от предпринимаемых Правообладателем мер защиты конфиденциальности получаемых персональных данных, Пользователь настоящим считается должным образом ознакомлен с тем, что любая передача Персональных данных в сети Интернет не может быть гарантировано безопасной, а потому Пользователь осуществляет такую передачу на свой собственный риск.
 
-
 # PRIVACY POLICY FOR MOBILE APPLICATION
 "FORUM 2023 NAVIGATION"
 1. DEFINITION OF CONCEPTS
@@ -138,8 +139,8 @@ ________
 Joint Stock Company "Research Institute of Microelectronic Equipment "Progress"
 125183, Moscow,
 Cherepanov proezd, 54
-phone: (499)153-03-11
-email: niima@mri-progress.ru
+phone: +7 499 2817057
+email: info@i-progress.tech
 "Cookies" means small files sent to any mobile application or website and placed on smartphones,
 tablets, watches and other mobile devices of the User, to improve the operation of such applications or sites, as well as the quality of the content posted in them.
 
@@ -222,7 +223,7 @@ Each User has the right to express his objection to the Copyright Holder against
 The request should be sent to niima@mri-progress.ru
 Request for information about personal data
 If the User has questions related to the procedure for applying or using this Policy, the procedure and/or method of processing Personal Data, the User can ask such a question as follows:
-The request should be sent to niima@mri-progress.ru
+The request should be sent to info@i-progress.tech
 Change (update, addition, correction) or deletion of personal data
 The user has the right to independently change or delete his Personal Data at any time, except in cases where such change or deletion may lead to (1) a violation of the rules of this Policy; or (2) to violate the Law; (3) the nature of such Personal Data is evidence in any litigation arising between the Copyright Holder and the User.
 The User has the right to change or delete his Personal Data in the following way:
@@ -255,4 +256,3 @@ Applicable Law
 This Policy has been developed in accordance with the current legislation on the protection of personal data of the Russian Federation, in particular, with the norms of the Federal Law of July 27, 2006 No. 152-FZ “On Personal Data” (with all additions and changes), the Federal Law of July 21, 2014 No. 242-FZ "On amendments to certain legislative acts of the Russian Federation in terms of clarifying the procedure for processing personal data in information and telecommunication networks" (with all additions and changes).
 Risk of disclosure
 Regardless of the measures taken by the Copyright Holder to protect the confidentiality of the received personal data, the User is hereby considered to be properly aware that any transfer of Personal data on the Internet cannot be guaranteed secure, and therefore the User carries out such transfer at his own risk.
-
