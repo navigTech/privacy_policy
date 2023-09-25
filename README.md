@@ -1,8 +1,8 @@
 # ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ ДЛЯ МОБИЛЬНОГО ПРИЛОЖЕНИЯ
-"ФОРУМ 2023 НАВИГАЦИЯ"
+"NaviGo"
 1. ОПРЕДЕЛЕНИЕ ПОНЯТИЙ
 "Закон" означает Федеральный закон Российской Федерации "О персональных данных" со всеми изменениями и дополнениями, а также иные законодательные акты Российской Федерации.
-"Мобильное приложение" это программное обеспечение (со всеми существующими дополнениями и улучшениями), предназначенное для работы на смартфонах, планшетах, часах и других мобильных устройствах, и разработанное для конкретной платформы (iOS, Android, Windows Phone и т. д.). Для целей настоящей Политики под Мобильным приложением подразумевается следующее программное обеспечение: ФОРУМ 2023 НАВИГАЦИЯ.
+"Мобильное приложение" это программное обеспечение (со всеми существующими дополнениями и улучшениями), предназначенное для работы на смартфонах, планшетах, часах и других мобильных устройствах, и разработанное для конкретной платформы (iOS, Android, Windows Phone и т. д.). Для целей настоящей Политики под Мобильным приложением подразумевается следующее программное обеспечение: NaviGo.
 "Персональные данные" означает совокупность личных данных и/или неперсонифицированной информации о Пользователе, предоставляемую им самим Правообладателю и/или автоматически собираемую Правообладателем и/или третьими лицами.
 "Политика" означает настоящею Политику конфиденциальности мобильного приложения (со всеми существующими дополнениями и изменениями).
 "Пользователь" означает юридическое или физическое лицо, которое загрузило Мобильное приложение на смартфон, планшет, часы или любое другое мобильное устройство и/или осуществило активацию такого Мобильного приложения на одном из указанных устройств.
@@ -127,10 +127,10 @@ ________
 Вне зависимости от предпринимаемых Правообладателем мер защиты конфиденциальности получаемых персональных данных, Пользователь настоящим считается должным образом ознакомлен с тем, что любая передача Персональных данных в сети Интернет не может быть гарантировано безопасной, а потому Пользователь осуществляет такую передачу на свой собственный риск.
 
 # PRIVACY POLICY FOR MOBILE APPLICATION
-"FORUM 2023 NAVIGATION"
+"NaviGo"
 1. DEFINITION OF CONCEPTS
 “Law” means the Federal Law of the Russian Federation “On Personal Data” with all amendments and additions, as well as other legislative acts of the Russian Federation.
-"Mobile application" is software (with all existing additions and improvements) designed to run on smartphones, tablets, watches and other mobile devices, and developed for a specific platform (iOS, Android, Windows Phone, etc.). For the purposes of this Policy, the Mobile Application means the following software: FORUM 2023 NAVIGATION.
+"Mobile application" is software (with all existing additions and improvements) designed to run on smartphones, tablets, watches and other mobile devices, and developed for a specific platform (iOS, Android, Windows Phone, etc.). For the purposes of this Policy, the Mobile Application means the following software: NaviGo.
 “Personal data” means a set of personal data and/or non-personalized information about the User provided by the User himself to the Copyright Holder and/or automatically collected by the Copyright Holder and/or third parties.
 “Policy” means this Mobile Application Privacy Policy (with all existing additions and changes).
 “User” means a legal entity or individual who has downloaded the Mobile Application to a smartphone, tablet, watch or any other mobile device and/or activated such Mobile Application on one of the specified devices.
